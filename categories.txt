@@ -1,0 +1,8 @@
+Groceries
+Rent
+Bills
+Entertainment
+Transport
+Insurance
+Car
+Makeup
